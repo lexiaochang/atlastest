@@ -7,6 +7,7 @@ output tpatch
 patch&json to Android/data/mmc.atlastest/cache
 Android/data/mmc.atlastest/cache
 
+git push -u origin master
 
 
 getExternalCacheDir修改so，json，tpatch文件存储地址
