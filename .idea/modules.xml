@@ -2,11 +2,16 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Desktop.iml" filepath="$PROJECT_DIR$/Desktop.iml" />
+      <module fileurl="file://C:\develop\chris\atlas\atlastest\Desktop.iml" filepath="C:\develop\chris\atlas\atlastest\Desktop.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\develop\chris\atlas\atlastest\app\app.iml" filepath="C:\develop\chris\atlas\atlastest\app\app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/atlastest.iml" filepath="$PROJECT_DIR$/atlastest.iml" />
       <module fileurl="file://$PROJECT_DIR$/librarybundler/librarybundler.iml" filepath="$PROJECT_DIR$/librarybundler/librarybundler.iml" />
+      <module fileurl="file://C:\develop\chris\atlas\atlastest\librarybundler\librarybundler.iml" filepath="C:\develop\chris\atlas\atlastest\librarybundler\librarybundler.iml" />
       <module fileurl="file://$PROJECT_DIR$/localbundle/localbundle.iml" filepath="$PROJECT_DIR$/localbundle/localbundle.iml" />
+      <module fileurl="file://C:\develop\chris\atlas\atlastest\localbundle\localbundle.iml" filepath="C:\develop\chris\atlas\atlastest\localbundle\localbundle.iml" />
       <module fileurl="file://$PROJECT_DIR$/remotebundle/remotebundle.iml" filepath="$PROJECT_DIR$/remotebundle/remotebundle.iml" />
+      <module fileurl="file://C:\develop\chris\atlas\atlastest\remotebundle\remotebundle.iml" filepath="C:\develop\chris\atlas\atlastest\remotebundle\remotebundle.iml" />
     </modules>
   </component>
 </project>
