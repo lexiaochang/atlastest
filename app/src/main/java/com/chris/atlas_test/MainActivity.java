@@ -56,6 +56,7 @@ public class MainActivity extends AppCompatActivity {
         startActivity(intent);
     }
 
+
     //更新补丁
     public void update(View view) {
         new AsyncTask<Void, Void, Void>() {
